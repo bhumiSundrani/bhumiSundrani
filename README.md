@@ -16,7 +16,7 @@
 
 # 🛠 Tech Arsenal
 
-### 💻 Languages & Frameworks
+#### 💻 Languages & Frameworks
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,tailwind,redux,nodejs,express" />
@@ -24,7 +24,7 @@
 
 ---
 
-### 🤖 AI & Machine Learning
+#### 🤖 AI & Machine Learning
 
 <p align="center">
 
@@ -47,7 +47,7 @@
 
 ---
 
-### 🗄 Databases & Storage
+#### 🗄 Databases & Storage
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=mongodb" />
@@ -56,28 +56,10 @@
 
 ---
 
-### ☁ Cloud & DevOps
+#### ☁ Cloud & DevOps
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=docker,git,github,vercel" />
-</p>
-
----
-
-### 🛠 Developer Tools
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=vscode,postman" />
-</p>
-
----
-
-## ☁ Cloud & DevOps
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=docker,git,github,vercel" />
-
 </p>
 
 ---
