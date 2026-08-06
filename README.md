@@ -3,7 +3,7 @@
 </h1>
 
 <h3 align="center">
-Full Stack Developer • AI Integration Enthusiast • Building Real-World Products
+Full Stack Developer • AI Integration • Solving Problems
 </h3>
 
 
