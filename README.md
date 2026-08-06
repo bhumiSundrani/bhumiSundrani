@@ -9,7 +9,7 @@ Full Stack Developer • AI Integration • Solving Problems
 
 ---
 
-# 👩‍💻 About Me
+# 👩‍💻 About Her
 
 💻 Developer building AI-powered solutions and scalable web applications.
 
