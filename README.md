@@ -3,11 +3,8 @@
 </p>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=24&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&width=650&lines=Building+AI+Solutions;Full+Stack+Developer;RAG+%7C+LLMs+%7C+Next.js;Always+Learning+🚀"/>
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=24&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&width=650&lines=Building+AI+Solutions;Full+Stack+Developer;RAG+%7C+LLMs+%7C+Next.js;Always+Learning+"/>
 </p>
-
-
----
 
 # 👩‍💻 About Her
 
