@@ -1,5 +1,5 @@
 <h1 align="center">
-  Hi 👋, I'm Bhumi Sundrani
+  Hi 👋, Welcome to Bhumi's corner
 </h1>
 
 <h3 align="center">
