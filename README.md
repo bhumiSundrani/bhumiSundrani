@@ -26,22 +26,45 @@
 
 #### 🤖 AI & Machine Learning
 
+#### Models & APIs
+
 <p align="center">
 
-<img src="https://go-skill-icons.vercel.app/api/icons?i=gemini" height="48"/>
-<img src="https://cdn.simpleicons.org/langchain/1C3C3C" height="48"/>
-<img src="https://cdn.simpleicons.org/qdrant/DC244C" height="48"/>
-<img src="https://cdn.simpleicons.org/huggingface/FFD21E" height="48"/>
+<img src="https://go-skill-icons.vercel.app/api/icons?i=gemini" />
+<img src="https://cdn.simpleicons.org/openai/ffffff" height="48" alt="OpenAI"/>
+<img src="https://cdn.simpleicons.org/anthropic/D4A373" height="48" alt="Claude"/>
+<img src="https://cdn.simpleicons.org/groq/F55036" height="48" alt="Groq"/>
 
 </p>
+
+#### AI Frameworks
+
+<p align="center">
+
+<img src="https://cdn.simpleicons.org/langchain/1C3C3C" height="48" alt="LangChain"/>
+<img src="https://img.shields.io/badge/LangGraph-00C853?style=flat-square"/>
+<img src="https://cdn.simpleicons.org/huggingface/FFD21E" height="48" alt="Hugging Face"/>
+
+</p>
+
+#### Retrieval & Vector Search
+
+<p align="center">
+
+<img src="https://cdn.simpleicons.org/qdrant/DC244C" height="48" alt="Qdrant"/>
+<img src="https://img.shields.io/badge/RAG-FF6B35?style=flat-square"/>
+<img src="https://img.shields.io/badge/Embeddings-6A1B9A?style=flat-square"/>
+<img src="https://img.shields.io/badge/Vector_DB-0A66C2?style=flat-square"/>
+
+</p>
+
+#### AI Concepts
 
 <p align="center">
 
 <img src="https://img.shields.io/badge/LLMs-8A2BE2?style=flat-square"/>
-<img src="https://img.shields.io/badge/RAG-FF6B35?style=flat-square"/>
-<img src="https://img.shields.io/badge/LangGraph-00C853?style=flat-square"/>
 <img src="https://img.shields.io/badge/BERT-F4C430?style=flat-square"/>
-<img src="https://img.shields.io/badge/Embeddings-6A1B9A?style=flat-square"/>
+<img src="https://img.shields.io/badge/Prompt_Engineering-FF9800?style=flat-square"/>
 
 </p>
 
