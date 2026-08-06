@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:00D4FF&height=300&section=header&text=Bhumi%20Sundrani&desc=Full%20Stack%20Developer%20•%20Building%20AI%20Solutions&descAlignY=65&fontSize=58&fontColor=ffffff&animation=twinkling"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:DFEBEB&height=300&section=header&text=Bhumi%20Sundrani&desc=Full%20Stack%20Developer%20•%20Building%20AI%20Solutions&descAlignY=65&fontSize=58&fontColor=ffffff&animation=twinkling"/>
 </p>
 
 # 👩‍💻 About Her
