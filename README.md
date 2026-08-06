@@ -50,8 +50,8 @@
 #### 🗄 Databases & Storage
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=mongodb" />
-  <img src="https://cdn.simpleicons.org/qdrant/DC244C" height="48"/>
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres" />
+  <img src="https://cdn.simpleicons.org/qdrant/DC244C" height="48" alt="Qdrant"/>
 </p>
 
 ---
