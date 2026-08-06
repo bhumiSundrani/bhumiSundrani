@@ -6,21 +6,18 @@
 Full Stack Developer • AI Integration Enthusiast • Building Real-World Products
 </h3>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1200&color=4F8EF7&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Building+AI-Powered+Applications;RAG+%7C+Next.js+%7C+Node.js+%7C+MongoDB;Always+Learning+Something+New+🚀" />
-</p>
 
 ---
 
 # 👩‍💻 About Me
 
-🚀 Passionate Full Stack Developer with a love for creating scalable web applications.
+💻 Developer building AI-powered solutions and scalable web applications.
 
-🤖 Currently exploring **AI Integration**, **Retrieval-Augmented Generation (RAG)**, and **LLM-powered applications**.
+🤖 Focused on LLMs, RAG pipelines, vector databases, and modern full-stack development.
 
-🌱 Learning **System Design**, **Authentication**, and **Cloud Technologies**.
+🚀 Turning ideas into products with clean code, thoughtful design, and real-world impact.
 
-💡 I enjoy building products that solve real-world problems with clean architecture and intuitive user experiences.
+🌱 Always learning, always building.
 
 ---
 
