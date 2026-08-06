@@ -1,10 +1,10 @@
-<h1 align="center">
-  Hi 👋, Welcome to Bhumi's corner
-</h1>
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:00D4FF&height=220&section=header&text=Bhumi%20Sundrani&fontSize=50&fontColor=fff"/>
+</p>
 
-<h3 align="center">
-Full Stack Developer • AI Integration • Solving Problems
-</h3>
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=24&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&width=650&lines=Building+AI+Solutions;Full+Stack+Developer;RAG+%7C+LLMs+%7C+Next.js;Always+Learning+🚀"/>
+</p>
 
 
 ---
