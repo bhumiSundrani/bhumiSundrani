@@ -29,8 +29,6 @@
 <p align="center">
 
 <img src="https://go-skill-icons.vercel.app/api/icons?i=gemini" height="48" alt="Gemini"/>
-<img src="https://cdn.simpleicons.org/openai/ffffff" height="48" alt="OpenAI"/>
-<img src="https://cdn.simpleicons.org/anthropic/D4A373" height="48" alt="Claude"/>
 <img src="https://cdn.simpleicons.org/huggingface/FFD21E" height="48" alt="Hugging Face"/>
 <img src="https://cdn.simpleicons.org/qdrant/DC244C" height="48" alt="Qdrant"/>
 
