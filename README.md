@@ -16,43 +16,58 @@
 
 # 🛠 Tech Arsenal
 
-## 💻 Languages & Frameworks
+### 💻 Languages & Frameworks
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,tailwind,redux,nodejs,express" />
+</p>
+
+---
+
+### 🤖 AI & Machine Learning
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,tailwind,redux,nodejs,express,mongodb" />
+<img src="https://go-skill-icons.vercel.app/api/icons?i=gemini" height="48"/>
+<img src="https://cdn.simpleicons.org/langchain/1C3C3C" height="48"/>
+<img src="https://cdn.simpleicons.org/qdrant/DC244C" height="48"/>
+<img src="https://cdn.simpleicons.org/huggingface/FFD21E" height="48"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/LLMs-8A2BE2?style=flat-square"/>
+<img src="https://img.shields.io/badge/RAG-FF6B35?style=flat-square"/>
+<img src="https://img.shields.io/badge/LangGraph-00C853?style=flat-square"/>
+<img src="https://img.shields.io/badge/BERT-F4C430?style=flat-square"/>
+<img src="https://img.shields.io/badge/Embeddings-6A1B9A?style=flat-square"/>
 
 </p>
 
 ---
 
-## 🤖 AI & Machine Learning
+### 🗄 Databases & Storage
 
 <p align="center">
-
-<img src="https://img.shields.io/badge/LLMs-8A2BE2?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/RAG-FF6B35?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Google_Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
-<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/LangGraph-00C853?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Qdrant-DC244C?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/BERT-FFD43B?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Embeddings-6A1B9A?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Vector_DB-0A66C2?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Prompt_Engineering-FF9800?style=for-the-badge"/>
-
+  <img src="https://skillicons.dev/icons?i=mongodb" />
+  <img src="https://cdn.simpleicons.org/qdrant/DC244C" height="48"/>
 </p>
 
 ---
 
-## 🗄 Databases & Storage
+### ☁ Cloud & DevOps
 
 <p align="center">
+  <img src="https://skillicons.dev/icons?i=docker,git,github,vercel" />
+</p>
 
-<img src="https://skillicons.dev/icons?i=mongodb" />
+---
 
-<img src="https://img.shields.io/badge/Qdrant-DC244C?style=for-the-badge"/>
+### 🛠 Developer Tools
 
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=vscode,postman" />
 </p>
 
 ---
