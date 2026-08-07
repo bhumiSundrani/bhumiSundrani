@@ -16,7 +16,7 @@
 
 # 🛠 Tech Arsenal
 
-## 🎨 Frontend
+#### 🎨 Frontend
 
 <p>
 <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
@@ -26,7 +26,7 @@
 <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white"/>
 </p>
 
-## ⚙ Backend
+#### ⚙ Backend
 
 <p>
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
@@ -36,7 +36,7 @@
 <img src="https://img.shields.io/badge/REST_API-FF6F00?style=for-the-badge"/>
 </p>
 
-## 🤖 AI & Machine Learning
+#### 🤖 AI & Machine Learning
 
 <p>
 
@@ -44,8 +44,6 @@
 <img src="https://img.shields.io/badge/RAG-FF6B35?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Google_Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
 <img src="https://img.shields.io/badge/BERT-FFD43B?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/LangGraph-00C853?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Qdrant-DC244C?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Vector_Databases-0A66C2?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Embeddings-6A1B9A?style=for-the-badge"/>
@@ -53,15 +51,13 @@
 
 </p>
 
-## 🛠 Developer Tools
+#### 🛠 Developer Tools
 
 <p>
 
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
-<img src="https://img.shields.io/badge/REST_APIs-009688?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white"/>
 
 </p>
 
