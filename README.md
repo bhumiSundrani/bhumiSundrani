@@ -93,7 +93,7 @@
 
 ## 🛒 VyaparEasy
 
-A modern business management platform for small businesses.
+> A modern business management platform for small businesses.
 
 ### ✨ Features
 
